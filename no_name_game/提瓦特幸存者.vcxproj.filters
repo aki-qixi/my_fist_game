@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="role_anim.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bullet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="magic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="snail.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bee.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="e_bullet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="father_e.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="prop.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="prop_heart.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="prop_coin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="skill.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ball_skill.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bear.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="boss1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="b1_bullet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="eagle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sheet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="skill_max.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="role_anim.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="load_anim.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="bullet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="magic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="snail.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="bee.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="e_bullet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fast_load.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="father_e.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="prop.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="prop_heart.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="prop_coin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="scene.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="scene_menu.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="scene_begin.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="skill.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ball_skill.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="bear.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="boss1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="b1_bullet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="eagle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sheet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="skill_max.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="scene_shop.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="scene_help.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="setting.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="scene_setting.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="NO NAME.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="tubiao.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

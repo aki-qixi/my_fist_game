@@ -1,0 +1,15 @@
+﻿  boss1.cpp
+D:\vc\提瓦特幸存者\boss1.cpp(70,21): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\vc\提瓦特幸存者\boss1.cpp(71,26): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\boss1.cpp(75,21): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\vc\提瓦特幸存者\boss1.cpp(76,26): warning C4244: “-=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\boss1.cpp(83,13): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\boss1.cpp(93,13): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\boss1.cpp(103,13): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\boss1.cpp(150,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\vc\提瓦特幸存者\boss1.cpp(152,41): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\boss1.cpp(153,41): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+  main.cpp
+  正在生成代码...
+D:\vc\提瓦特幸存者\boss1.cpp(181): warning C4715: “boss1::attack”: 不是所有的控件路径都返回值
+  提瓦特幸存者.vcxproj -> D:\vc\提瓦特幸存者\x64\Debug\提瓦特幸存者.exe

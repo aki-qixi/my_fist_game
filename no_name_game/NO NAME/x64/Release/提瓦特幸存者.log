@@ -1,0 +1,59 @@
+﻿  b1_bullet.cpp
+D:\vc\提瓦特幸存者\b1_bullet.cpp(20,38): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\b1_bullet.cpp(21,38): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\b1_bullet.cpp(35,24): warning C4244: “-=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\b1_bullet.cpp(36,24): warning C4244: “-=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\b1_bullet.cpp(40,24): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\b1_bullet.cpp(41,24): warning C4244: “-=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\b1_bullet.cpp(45,24): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\b1_bullet.cpp(46,24): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\b1_bullet.cpp(50,24): warning C4244: “-=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\b1_bullet.cpp(51,24): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\b1_bullet.cpp(57,38): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\b1_bullet.cpp(58,38): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+  ball_skill.cpp
+  bear.cpp
+D:\vc\提瓦特幸存者\bear.cpp(100,30): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\bear.cpp(101,30): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+  bee.cpp
+D:\vc\提瓦特幸存者\bee.cpp(106,13): warning C4244: “+=”: 从“const double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\bee.cpp(110,13): warning C4244: “-=”: 从“const double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\bee.cpp(114,16): warning C4244: “+=”: 从“const double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\bee.cpp(118,13): warning C4244: “-=”: 从“const double”转换到“LONG”，可能丢失数据
+  boss1.cpp
+D:\vc\提瓦特幸存者\boss1.cpp(70,21): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\vc\提瓦特幸存者\boss1.cpp(71,26): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\boss1.cpp(75,21): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\vc\提瓦特幸存者\boss1.cpp(76,26): warning C4244: “-=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\boss1.cpp(83,13): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\boss1.cpp(93,13): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\boss1.cpp(103,13): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\boss1.cpp(150,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\vc\提瓦特幸存者\boss1.cpp(152,41): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\boss1.cpp(153,41): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+  bullet.cpp
+  eagle.cpp
+D:\vc\提瓦特幸存者\eagle.cpp(96,30): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\eagle.cpp(97,30): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+  enemy.cpp
+  e_bullet.cpp
+D:\vc\提瓦特幸存者\e_bullet.cpp(23,48): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\e_bullet.cpp(24,48): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+  father_e.cpp
+D:\vc\提瓦特幸存者\father_e.cpp(34,30): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\father_e.cpp(35,30): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+  magic.cpp
+  main.cpp
+  prop.cpp
+  prop_coin.cpp
+  prop_heart.cpp
+  role_anim.cpp
+  sheet.cpp
+  skill.cpp
+  skill_max.cpp
+  snail.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1438 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  提瓦特幸存者.vcxproj -> D:\vc\提瓦特幸存者\x64\Release\NO NAME.exe

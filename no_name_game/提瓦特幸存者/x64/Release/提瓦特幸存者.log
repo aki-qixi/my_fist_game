@@ -1,0 +1,25 @@
+﻿  bee.cpp
+D:\vc\提瓦特幸存者\bee.cpp(106,13): warning C4244: “+=”: 从“const double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\bee.cpp(110,13): warning C4244: “-=”: 从“const double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\bee.cpp(114,16): warning C4244: “+=”: 从“const double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\bee.cpp(118,13): warning C4244: “-=”: 从“const double”转换到“LONG”，可能丢失数据
+  bullet.cpp
+  enemy.cpp
+  e_bullet.cpp
+D:\vc\提瓦特幸存者\e_bullet.cpp(23,48): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\e_bullet.cpp(24,48): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+  father_e.cpp
+D:\vc\提瓦特幸存者\father_e.cpp(34,30): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\vc\提瓦特幸存者\father_e.cpp(35,30): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+  magic.cpp
+  main.cpp
+  prop.cpp
+  prop_coin.cpp
+  prop_heart.cpp
+  role_anim.cpp
+  snail.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 550 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  提瓦特幸存者.vcxproj -> D:\vc\提瓦特幸存者\x64\Release\提瓦特幸存者.exe
